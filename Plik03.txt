@@ -1,1 +1,6 @@
 hotfix--001
+oraz
+zamina
+asystent pomocy
+interfejs graficzny
+
