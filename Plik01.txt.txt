@@ -8,4 +8,4 @@ hotfix--001
 oraz
 asystent pomocy
 interfejs graficzny
-
+zmiana
