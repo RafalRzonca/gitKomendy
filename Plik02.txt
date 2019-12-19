@@ -3,4 +3,4 @@ oraz
 zmiana
 asystent pomocy
 interfejs graficzny
-zmiana
+zmiana	2
