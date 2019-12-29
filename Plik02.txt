@@ -5,3 +5,4 @@ asystent pomocy
 interfejs graficzny
 zmiana	2
 zmiana w clonie
+zmiana w lokalnym :P
