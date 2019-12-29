@@ -9,3 +9,4 @@ oraz
 asystent pomocy
 interfejs graficzny
 zmiana	2
+zmaina 101
