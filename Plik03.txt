@@ -5,3 +5,5 @@ asystent pomocy
 interfejs graficzny
 
 gałąź
+
+vsscv
