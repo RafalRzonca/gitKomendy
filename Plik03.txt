@@ -4,3 +4,4 @@ zamina
 asystent pomocy
 interfejs graficzny
 
+gałąź
